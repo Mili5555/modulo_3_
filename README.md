@@ -15,3 +15,5 @@ Se estudiaron los posibles mecanismos de falla, considerando la fractura por fle
 Además, se efectuó un **análisis de los metadatos EXIF** para evaluar la trazabilidad de las imágenes y se examinaron parámetros fotográficos como la iluminación, composición, profundidad de campo y saturación, aplicados también al registro documental de un evento.
 
 **El propósito fue integrar la fotografía como herramienta de análisis y documentación en ingeniería**, fortaleciendo la capacidad de interpretar evidencias visuales, identificar posibles causas de fallas y comunicar resultados de manera objetiva, clara y técnicamente fundamentada.
+
+[📄 Ver Trabajo Práctico – Módulo 3: Taller de Fotografía](https://github.com/Mili5555/modulo_3/blob/main/Modulo_3_Taller_de_Fotografia_Informe_Original.pdf)
